@@ -55,7 +55,8 @@ public class Main {
 
         System.out.println("Exercise number 8: ");
 
-
+        logicalOp.printNumber(7);
+        logicalOp.printNumber(100);
 
         System.out.println("Exercise number 9: ");
 

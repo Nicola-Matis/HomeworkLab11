@@ -15,7 +15,7 @@ public class AppMain {
                 "However, despite the fame of the brand its price is a deciding factor, not everyone affords to pay " + "$" + dogFood.price +
                 " for only 10 servings of the dog's favorite food, love can only get you so far!");
         //RecreationalActivities
-            RecreationalActivities Activity = new RecreationalActivities("Swimming", 30);
+        RecreationalActivities Activity = new RecreationalActivities("Swimming", 30);
         System.out.println("Rex's favorite activity is " + Activity.name + " and the average session is " + Activity.duration + " minutes long.");
         //Vet
         Vet veterinary = new Vet("Darius",25, "Radiology");

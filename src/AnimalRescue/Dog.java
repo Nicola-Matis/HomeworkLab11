@@ -19,4 +19,3 @@ public class Dog {
         favoriteActivity = dogFavoriteActivity;
     }
 }
-
